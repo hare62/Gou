@@ -1,0 +1,2 @@
+# Gou
+This is repository.
